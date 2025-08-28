@@ -9,6 +9,6 @@ import GithubCard from './components/GithubCard.vue'
     <GithubCard username="nodejs"></GithubCard>
     <GithubCard username="php"></GithubCard>
     <GithubCard username="sass"></GithubCard>
-    <GithubCard username="java"></GithubCard>
+    <GithubCard username="java" title-class-name="movie-title_last"></GithubCard>
     <GithubCard username="dianakerekesha"></GithubCard>
 </template>
